@@ -2,6 +2,9 @@
 
 The goal of this project was to understand the basics of chart making within C# using a Windows Form Application. This project was made by following along to a YouTube video by [Vere Miller](https://github.com/vmille25) found [here](https://www.youtube.com/watch?v=1hKaglBrIyY). 
 
+## Chart Created through program:
+![](./Practice_Chart/chart_graph_gen.png)
+
 ## Topics Covered:
 - Creating an instance of a chart.
 - Creating a Chart Area
