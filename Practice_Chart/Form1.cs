@@ -42,6 +42,12 @@ namespace Practice_Chart
             // Create Data Points
             S1.Points.AddXY("12/5/22", 10);
             S1.Points.AddXY("12/6/22", 15);
+            S1.Points.AddXY("12/7/22", 14);
+            S1.Points.AddXY("12/8/22", 6);
+            S1.Points.AddXY("12/9/22", 12);
+            S1.Points.AddXY("12/10/22", 0);
+            S1.Points.AddXY("12/11/22", 20);
+            S1.Points.AddXY("12/12/22", 18);
 
             // Set the background colors
             chart.BackColor = Color.Transparent; // Set the background of the chart to transparent
